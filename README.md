@@ -1,4 +1,4 @@
-### 🩺 Smart Medico: Healthcare Analytics & Visualization Project
+# 🩺 Smart Medico: Healthcare Analytics & Visualization Project
 To design and deliver a comprehensive healthcare analytics solution that enables hospital management to monitor key operational metrics, analyze patient and financial data, and make informed decisions through interactive visualizations and structured documentation. The project aims to integrate data modeling, SQL-based data preparation, and Power BI dashboarding to provide real-time insights across patient care, billing, and resource allocation.
 
 **Role:** Business Analyst | Data Analyst & Developer  
